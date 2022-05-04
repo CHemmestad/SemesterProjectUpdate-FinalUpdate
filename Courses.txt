@@ -1,0 +1,67 @@
+
+Class
+Composition II
+ID
+FD01
+Credits
+3
+Type
+ENG
+Max
+25
+Days
+Fri
+Start
+1200
+End
+1300
+Room
+Literature 204
+Date
+2020/9/15 2020/11/2
+END
+
+Class
+Caleb
+ID
+MAT 210
+Credits
+20
+Type
+FD01
+Max
+10
+Days
+5
+Start
+5
+End
+5
+Room
+Science 109
+Date
+12/05/1996
+END
+
+Class
+Data Structures
+ID
+MAT 2,000
+Credits
+50
+Type
+FD01
+Max
+999
+Days
+Mon Tue Wed Thu Fri
+Start
+700
+End
+1000
+Room
+Science 310
+Date
+2020/5/10 2022/8/15
+END
+END OF LIST
